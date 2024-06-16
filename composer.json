@@ -1,0 +1,16 @@
+{
+    "name": "by34project/testpack",
+    "description": "This is a testpack",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "By34",
+            "email": "info@by34.it"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "monolog/monolog": "^2.0"
+    }
+}
